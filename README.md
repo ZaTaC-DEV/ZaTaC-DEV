@@ -9,3 +9,4 @@ Présentation
 
 
 ![ZaTaC-DEV GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaTaC-DEV&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaTaC-DEV&theme=radical)](https://github.com/ZaTaC-DEV/github-readme-stats)
