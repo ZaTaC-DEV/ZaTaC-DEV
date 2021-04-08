@@ -8,5 +8,5 @@ Présentation
 - 📫 I have 15 years old
 
 
-![ZaTaC-DEV GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaTaC-DEV&show_icons=true&theme=radical)
+![ZaTaC-DEV GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaTaC-DEV&show_icons=true&theme=radical&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaTaC-DEV&theme=radical)](https://github.com/ZaTaC-DEV/github-readme-stats)
